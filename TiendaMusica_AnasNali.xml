@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="TiendaMusica_AnasNali.xsl" type="text/xsl"?>
+<TiendaMusica>
+	<musica idioma="en">
+		<titulo>violator</titulo>
+		<grupo>depeche mode</grupo>
+		<tipo formato="cd"/>
+		<ano>1990</ano>
+		<single>Personal Jesus</single>
+		<single>Enjoy de Silence</single>
+		<single>Policy of truth</single>
+		<single>World in my eyes</single>
+	</musica>
+	<musica idioma="en">
+		<titulo>ok computer</titulo>
+		<grupo>radiohead</grupo>
+		<tipo formato="cd"/>
+		<ano>1997</ano>
+		<single>Paranoid Android</single>
+		<single>Karma Police</single>
+		<single>no surprises</single>
+		</musica>
+	<musica idioma="es">
+		<titulo>Como la cabeza sombrero</titulo>
+		<grupo>el ultimo de la fila</grupo>
+		<tipo formato="vinilo"/>
+		<ano>1988</ano>
+		<single></single>
+	</musica>
+	<musica idioma="es">
+		<titulo>hacia lo salvaje</titulo>
+		<grupo>amaral</grupo>
+		<tipo formato="mp3"/>
+		<ano>2011</ano>
+		<single>Hacia lo salvaje</single>
+		<single>Cuando suba la marea</single>
+		<single>Hoy es el principio del final</single>
+	</musica>
+</TiendaMusica>
